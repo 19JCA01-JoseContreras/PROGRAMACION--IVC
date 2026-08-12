@@ -1,0 +1,16 @@
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\bin\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.exe
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\bin\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.deps.json
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\bin\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.runtimeconfig.json
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\bin\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.dll
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\bin\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.pdb
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2_JoseContreras_7.Form1.resources
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.csproj.GenerateResource.cache
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.AssemblyInfoInputs.cache
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.AssemblyInfo.cs
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.dll
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\refint\Ejercicio2-JoseContreras-7.dll
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.pdb
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\Ejercicio2-JoseContreras-7.genruntimeconfig.cache
+C:\Users\Laboratorio B\source\repos\Ejercicio2-JoseContreras-7\Ejercicio2-JoseContreras-7\obj\Debug\net10.0-windows\ref\Ejercicio2-JoseContreras-7.dll
